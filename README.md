@@ -1,6 +1,6 @@
 # exmp
 
-## Auther
+## Author
 Blevins
 
 ### What does it do?
